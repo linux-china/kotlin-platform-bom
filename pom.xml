@@ -34,8 +34,10 @@
         <!--web development & GUI-->
         <!--system management & monitor-->
         <!--productivity & tools-->
+        <funktionale.version>1.0.0-final</funktionale.version>
+        <rxkotlin.version>1.0.0</rxkotlin.version>
         <!--code & classes-->
-        <intellij.version>15.0</intellij.version>
+        <jetbrains-annotations.version>15.0</jetbrains-annotations.version>
         <!--testing-->
         <!--network-->
         <!--parsers & templates & serializer-->
@@ -45,6 +47,11 @@
 
     <dependencyManagement>
         <dependencies>
+            <dependency>
+                <groupId>org.jetbrains</groupId>
+                <artifactId>annotations</artifactId>
+                <version>${jetbrains-annotations}</version>
+            </dependency>
             <dependency>
                 <groupId>org.jetbrains.kotlin</groupId>
                 <artifactId>kotlin-stdlib</artifactId>
@@ -60,8 +67,25 @@
                 <artifactId>kotlin-reflect</artifactId>
                 <version>${kotlin.version}</version>
             </dependency>
+            <dependency>
+                <groupId>org.funktionale</groupId>
+                <artifactId>funktionale-all</artifactId>
+                <version>${funktionale.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.reactivex</groupId>
+                <artifactId>rxkotlin</artifactId>
+                <version>${rxkotlin.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
+    <repositories>
+        <repository>
+            <id>central</id>
+            <name>bintray</name>
+            <url>http://jcenter.bintray.com</url>
+        </repository>
+    </repositories>
 
 </project>
