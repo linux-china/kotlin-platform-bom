@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.github.linux-china</groupId>
+    <artifactId>kotlin-platform-bom</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>Kotlin Platform BOM</name>
+    <description>Kotlin Platform BOM(bill of materials) for Maven</description>
+    <url>https://github.com/linux-china/kotlin-platform-bom</url>
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+        </license>
+    </licenses>
+    <scm>
+        <connection>scm:git:https://github.com/linux-china/kotlin-platform-bom</connection>
+        <url>https://github.com/linux-china/kotlin-platform-bom</url>
+    </scm>
+    <developers>
+        <developer>
+            <id>linux_china</id>
+            <name>Jacky</name>
+            <email>linux_china at hotmail.com</email>
+        </developer>
+    </developers>
+
+    <properties>
+        <kotlin.version>1.1.1</kotlin.version>
+        <!--web development & GUI-->
+        <!--system management & monitor-->
+        <!--productivity & tools-->
+        <!--code & classes-->
+        <intellij.version>15.0</intellij.version>
+        <!--testing-->
+        <!--network-->
+        <!--parsers & templates & serializer-->
+        <!--persistence-->
+        <!--security-->
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.jetbrains.kotlin</groupId>
+                <artifactId>kotlin-stdlib</artifactId>
+                <version>${kotlin.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jetbrains.kotlin</groupId>
+                <artifactId>kotlin-stdlib-jre8</artifactId>
+                <version>${kotlin.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jetbrains.kotlin</groupId>
+                <artifactId>kotlin-reflect</artifactId>
+                <version>${kotlin.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+
+</project>
