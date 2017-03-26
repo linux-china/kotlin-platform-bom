@@ -36,6 +36,7 @@
         <!--productivity & tools-->
         <funktionale.version>1.0.0-final</funktionale.version>
         <rxkotlin.version>1.0.0</rxkotlin.version>
+        <kotlinx-coroutines.version>0.14</kotlinx-coroutines.version>
         <!--code & classes-->
         <jetbrains-annotations.version>15.0</jetbrains-annotations.version>
         <!--testing-->
@@ -78,6 +79,11 @@
                 <groupId>io.reactivex</groupId>
                 <artifactId>rxkotlin</artifactId>
                 <version>${rxkotlin.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jetbrains.kotlinx</groupId>
+                <artifactId>kotlinx-coroutines-jdk8</artifactId>
+                <version>${kotlinx-coroutines.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.nhaarman</groupId>
