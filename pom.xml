@@ -45,6 +45,7 @@
         <mockito-kotlin.version>1.4.0</mockito-kotlin.version>
         <kotlintest.version>2.0.0</kotlintest.version>
         <spek.version>1.1.0</spek.version>
+        <assertj-core-kotlin.version>0.2.0</assertj-core-kotlin.version>
         <!--network-->
         <!--parsers & templates & serializer-->
         <!--persistence-->
@@ -107,6 +108,11 @@
                 <groupId>io.kotlintest</groupId>
                 <artifactId>kotlintest</artifactId>
                 <version>${kotlintest.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>net.wuerl.kotlin/</groupId>
+                <artifactId>assertj-core-kotlin</artifactId>
+                <version>${assertj-core-kotlin.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.jetbrains.spek</groupId>
