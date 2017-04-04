@@ -21,6 +21,21 @@ Please add following code in your pom.xml:
  </dependencyManagement>
 ```
 
+### Artifacts
+
+* assertj-core-kotlin
+```kotlin
+import org.assertj.core.api.KotlinAssertions.assertThat
+import org.junit.Test
+
+class KotlinAssertionsExample {
+    @Test
+    fun simpleAssertion() {
+        assertThat(10L.toString()).isEqualTo("10")
+    }
+}
+```
+
 ### References
 
 * https://kotlin.link/
