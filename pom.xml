@@ -49,6 +49,7 @@
         <!--network-->
         <!--parsers & templates & serializer-->
         <!--persistence-->
+        <exposed.version>0.7.6</exposed.version>
         <!--security-->
     </properties>
 
@@ -98,6 +99,16 @@
                 <groupId>com.github.salomonbrys.kotson</groupId>
                 <artifactId>kotson</artifactId>
                 <version>${kotson.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jetbrains.exposed</groupId>
+                <artifactId>exposed</artifactId>
+                <version>${exposed.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jetbrains.exposed</groupId>
+                <artifactId>spring-transaction</artifactId>
+                <version>${exposed.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.nhaarman</groupId>
