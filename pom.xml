@@ -110,7 +110,7 @@
                 <version>${kotlintest.version}</version>
             </dependency>
             <dependency>
-                <groupId>net.wuerl.kotlin/</groupId>
+                <groupId>net.wuerl.kotlin</groupId>
                 <artifactId>assertj-core-kotlin</artifactId>
                 <version>${assertj-core-kotlin.version}</version>
             </dependency>
