@@ -34,7 +34,7 @@
         <!--web development & GUI-->
         <!--system management & monitor-->
         <!--productivity & tools-->
-        <funktionale.version>1.0.0-final</funktionale.version>
+        <funktionale.version>1.0.1</funktionale.version>
         <rxkotlin.version>1.0.0</rxkotlin.version>
         <rx2kotlin.version>2.0.0</rx2kotlin.version>
         <kotlinx-coroutines.version>0.14.1</kotlinx-coroutines.version>
