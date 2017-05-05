@@ -30,14 +30,14 @@
     </developers>
 
     <properties>
-        <kotlin.version>1.1.2-2</kotlin.version>
+        <kotlin.version>1.1.2-3</kotlin.version>
         <!--web development & GUI-->
         <!--system management & monitor-->
         <!--productivity & tools-->
         <funktionale.version>1.0.1</funktionale.version>
         <rxkotlin.version>1.0.0</rxkotlin.version>
-        <rx2kotlin.version>2.0.0</rx2kotlin.version>
-        <kotlinx-coroutines.version>0.14.1</kotlinx-coroutines.version>
+        <rx2kotlin.version>2.0.2</rx2kotlin.version>
+        <kotlinx-coroutines.version>0.15</kotlinx-coroutines.version>
         <kotson.version>2.5.0</kotson.version>
         <!--code & classes-->
         <jetbrains-annotations.version>15.0</jetbrains-annotations.version>
