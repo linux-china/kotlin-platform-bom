@@ -39,6 +39,7 @@
         <rx2kotlin.version>2.0.2</rx2kotlin.version>
         <kotlinx-coroutines.version>0.15</kotlinx-coroutines.version>
         <kotson.version>2.5.0</kotson.version>
+        <reflect.lite.version>1.0.0</reflect.lite.version>
         <!--code & classes-->
         <jetbrains-annotations.version>15.0</jetbrains-annotations.version>
         <!--testing-->
@@ -94,6 +95,11 @@
                 <groupId>org.jetbrains.kotlinx</groupId>
                 <artifactId>kotlinx-coroutines-jdk8</artifactId>
                 <version>${kotlinx-coroutines.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jetbrains.kotlinx</groupId>
+                <artifactId>kotlinx.reflect.lite</artifactId>
+                <version>${reflect.lite.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.github.salomonbrys.kotson</groupId>
