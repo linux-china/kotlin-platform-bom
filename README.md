@@ -35,6 +35,7 @@ class KotlinAssertionsExample {
     }
 }
 ```
+* katz: Functional Data Types and abstractions for Kotlin https://github.com/FineCinnamon/Katz
 
 ### References
 
