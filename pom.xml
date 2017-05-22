@@ -154,7 +154,6 @@
                 <groupId>org.jetbrains.spek</groupId>
                 <artifactId>spek-api</artifactId>
                 <version>${spek.version}</version>
-                <type>pom</type>
             </dependency>
         </dependencies>
     </dependencyManagement>
