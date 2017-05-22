@@ -41,6 +41,7 @@
         <kotson.version>2.5.0</kotson.version>
         <reflect.lite.version>1.0.0</reflect.lite.version>
         <katz.version>0.3.2</katz.version>
+        <result.version>1.1.0</result.version>
         <!--code & classes-->
         <jetbrains-annotations.version>15.0</jetbrains-annotations.version>
         <!--testing-->
@@ -132,6 +133,11 @@
                 <groupId>khttp</groupId>
                 <artifactId>khttp</artifactId>
                 <version>${khttp.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.kittinunf.result</groupId>
+                <artifactId>result</artifactId>
+                <version>${result.version}</version>
             </dependency>
             <dependency>
                 <groupId>net.wuerl.kotlin</groupId>
