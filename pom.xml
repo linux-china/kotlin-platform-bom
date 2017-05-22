@@ -49,6 +49,7 @@
         <spek.version>1.1.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <!--network-->
+        <khttp.version>0.1.0</khttp.version>
         <!--parsers & templates & serializer-->
         <!--persistence-->
         <exposed.version>0.7.6</exposed.version>
@@ -126,6 +127,11 @@
                 <groupId>io.kotlintest</groupId>
                 <artifactId>kotlintest</artifactId>
                 <version>${kotlintest.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>khttp</groupId>
+                <artifactId>khttp</artifactId>
+                <version>${khttp.version}</version>
             </dependency>
             <dependency>
                 <groupId>net.wuerl.kotlin</groupId>
