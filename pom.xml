@@ -52,6 +52,7 @@
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <!--network-->
         <khttp.version>0.1.0</khttp.version>
+        <fuel.version>1.7.0</fuel.version>
         <!--parsers & templates & serializer-->
         <!--persistence-->
         <exposed.version>0.7.6</exposed.version>
@@ -134,6 +135,16 @@
                 <groupId>khttp</groupId>
                 <artifactId>khttp</artifactId>
                 <version>${khttp.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.kittinunf.fuel</groupId>
+                <artifactId>fuel</artifactId>
+                <version>${fuel.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.kittinunf.fuel</groupId>
+                <artifactId>fuel-rxjava</artifactId>
+                <version>${fuel.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.github.kittinunf.result</groupId>
