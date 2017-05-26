@@ -43,6 +43,7 @@
         <katz.version>0.3.2</katz.version>
         <result.version>1.1.0</result.version>
         <khronos.version>0.9.0</khronos.version>
+        <kotlin-statistics.version>0.1.0</kotlin-statistics.version>
         <!--code & classes-->
         <jetbrains-annotations.version>15.0</jetbrains-annotations.version>
         <!--testing-->
@@ -110,6 +111,11 @@
                 <groupId>com.github.salomonbrys.kotson</groupId>
                 <artifactId>kotson</artifactId>
                 <version>${kotson.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.nield</groupId>
+                <artifactId>kotlinstatistics</artifactId>
+                <version>${kotlin-statistics.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.jetbrains.exposed</groupId>
