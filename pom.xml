@@ -55,6 +55,7 @@
         <!--network-->
         <khttp.version>0.1.0</khttp.version>
         <fuel.version>1.7.0</fuel.version>
+        <http4k.version>2.0.5</http4k.version>
         <!--parsers & templates & serializer-->
         <!--persistence-->
         <exposed.version>0.7.6</exposed.version>
@@ -147,6 +148,16 @@
                 <groupId>khttp</groupId>
                 <artifactId>khttp</artifactId>
                 <version>${khttp.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.http4k</groupId>
+                <artifactId>http4k-core</artifactId>
+                <version>${http4k.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.http4k</groupId>
+                <artifactId>http4k-client-apache</artifactId>
+                <version>${http4k.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.github.kittinunf.fuel</groupId>
