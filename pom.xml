@@ -97,7 +97,7 @@
             <dependency>
                 <groupId>io.github.microutils</groupId>
                 <artifactId>kotlin-logging</artifactId>
-                <version>${kotlin-loggin.version}</version>
+                <version>${kotlin-logging.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.reactivex.rxjava2</groupId>
