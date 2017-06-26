@@ -36,7 +36,7 @@
         <!--productivity & tools-->
         <funktionale.version>1.1</funktionale.version>
         <rxkotlin.version>1.0.0</rxkotlin.version>
-        <rx2kotlin.version>2.0.3</rx2kotlin.version>
+        <rx2kotlin.version>2.1.0</rx2kotlin.version>
         <kotlinx-coroutines.version>0.16</kotlinx-coroutines.version>
         <kotson.version>2.5.0</kotson.version>
         <reflect.lite.version>1.0.0</reflect.lite.version>
@@ -54,8 +54,8 @@
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <!--network-->
         <khttp.version>0.1.0</khttp.version>
-        <fuel.version>1.7.0</fuel.version>
-        <http4k.version>2.11.0</http4k.version>
+        <fuel.version>1.8.0</fuel.version>
+        <http4k.version>2.11.2</http4k.version>
         <!--parsers & templates & serializer-->
         <!--persistence-->
         <exposed.version>0.7.6</exposed.version>
