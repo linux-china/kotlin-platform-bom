@@ -37,6 +37,8 @@ class KotlinAssertionsExample {
 ```
 * katz: Functional Data Types and abstractions for Kotlin https://github.com/FineCinnamon/Katz
 * fuel: Kotlin Http Client
+* kolor: A library to print colored strings https://github.com/ziggy42/kolor
+* kotlin-futures: A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like. https://github.com/vjames19/kotlin-futures
 
 ### References
 
