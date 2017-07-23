@@ -39,6 +39,7 @@ class KotlinAssertionsExample {
 * fuel: Kotlin Http Client
 * kolor: A library to print colored strings https://github.com/ziggy42/kolor
 * kotlin-futures: A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like. https://github.com/vjames19/kotlin-futures
+* kotlinpoet: A Kotlin API for generating .kt source files
 
 ### References
 
