@@ -49,7 +49,7 @@
         <jetbrains-annotations.version>15.0</jetbrains-annotations.version>
         <!--testing-->
         <mockito-kotlin.version>1.5.0</mockito-kotlin.version>
-        <kotlintest.version>2.0.4</kotlintest.version>
+        <kotlintest.version>2.0.5</kotlintest.version>
         <spek.version>1.1.2</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <!--network-->
