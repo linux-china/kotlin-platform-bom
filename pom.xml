@@ -46,6 +46,7 @@
         <khronos.version>0.9.0</khronos.version>
         <kotlin-logging.version>1.4.6</kotlin-logging.version>
         <kotlin-statistics.version>0.3.0</kotlin-statistics.version>
+        <physikal.version>1.0.0.0</physikal.version>
         <!--code & classes-->
         <jetbrains-annotations.version>15.0</jetbrains-annotations.version>
         <!--testing-->
@@ -120,6 +121,11 @@
                 <groupId>com.github.salomonbrys.kotson</groupId>
                 <artifactId>kotson</artifactId>
                 <version>${kotson.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.tenkiv.physikal</groupId>
+                <artifactId>core</artifactId>
+                <version>${physikal.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.nield</groupId>
