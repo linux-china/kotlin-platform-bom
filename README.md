@@ -41,6 +41,7 @@ class KotlinAssertionsExample {
 * kotlin-futures: A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like. https://github.com/vjames19/kotlin-futures
 * kotlinpoet: A Kotlin API for generating .kt source files
 * Physikal: https://github.com/Tenkiv/Physikal
+* kotlinx.atomicfu: The idiomatic way to use atomic operations in Kotlin
 
 ### References
 
