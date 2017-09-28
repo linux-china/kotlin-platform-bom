@@ -47,6 +47,7 @@
         <kotlin-logging.version>1.4.6</kotlin-logging.version>
         <kotlin-statistics.version>0.3.0</kotlin-statistics.version>
         <physikal.version>1.0.0.0</physikal.version>
+        <atomicfu.version>0.7</atomicfu.version>
         <!--code & classes-->
         <jetbrains-annotations.version>15.0</jetbrains-annotations.version>
         <!--testing-->
@@ -216,6 +217,11 @@
                 <groupId>com.github.hotchemi</groupId>
                 <artifactId>khronos</artifactId>
                 <version>${khronos.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jetbrains.kotlinx</groupId>
+                <artifactId>atomicfu</artifactId>
+                <version>${atomicfu.version}</version>
             </dependency>
             <dependency>
                 <groupId>net.wuerl.kotlin</groupId>
