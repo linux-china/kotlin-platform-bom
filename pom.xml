@@ -57,8 +57,8 @@
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <!--network-->
         <khttp.version>0.1.0</khttp.version>
-        <fuel.version>1.10.0</fuel.version>
-        <http4k.version>2.29.4</http4k.version>
+        <fuel.version>1.11.0</fuel.version>
+        <http4k.version>2.30.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>0.5.0</kotlinpoet.version>
         <!--persistence-->
