@@ -44,6 +44,7 @@
         <katz.version>0.3.2</katz.version>
         <result.version>1.2.0</result.version>
         <khronos.version>0.9.0</khronos.version>
+        <time.version>1.0.0</time.version>
         <kotlin-logging.version>1.4.6</kotlin-logging.version>
         <kotlin-statistics.version>1.0.0</kotlin-statistics.version>
         <physikal.version>1.1.1.0</physikal.version>
@@ -217,6 +218,11 @@
                 <groupId>com.github.hotchemi</groupId>
                 <artifactId>khronos</artifactId>
                 <version>${khronos.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.kizitonwose.time</groupId>
+                <artifactId>time</artifactId>
+                <version>${time.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.jetbrains.kotlinx</groupId>
