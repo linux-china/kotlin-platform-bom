@@ -43,6 +43,7 @@ class KotlinAssertionsExample {
 * Physikal: https://github.com/Tenkiv/Physikal
 * kotlinx.atomicfu: The idiomatic way to use atomic operations in Kotlin
 * date&time DSL： khronos， kizitonwose/Time 
+* MockK: mocking library for Kotlin http://mockk.io/
 
 ### References
 
