@@ -38,7 +38,7 @@
         <funktionale.version>1.2</funktionale.version>
         <rxkotlin.version>1.0.0</rxkotlin.version>
         <rx2kotlin.version>2.2.0</rx2kotlin.version>
-        <kotlinx-coroutines.version>0.20</kotlinx-coroutines.version>
+        <kotlinx-coroutines.version>0.21</kotlinx-coroutines.version>
         <kotson.version>2.5.0</kotson.version>
         <reflect.lite.version>1.0.0</reflect.lite.version>
         <katz.version>0.3.2</katz.version>
@@ -60,7 +60,7 @@
         <!--network-->
         <khttp.version>0.1.0</khttp.version>
         <fuel.version>1.12.0</fuel.version>
-        <http4k.version>3.6.0</http4k.version>
+        <http4k.version>3.6.1</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>0.6.0</kotlinpoet.version>
         <!--persistence-->
