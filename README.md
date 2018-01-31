@@ -44,6 +44,7 @@ class KotlinAssertionsExample {
 * kotlinx.atomicfu: The idiomatic way to use atomic operations in Kotlin
 * date&time DSL： khronos， kizitonwose/Time 
 * MockK: mocking library for Kotlin http://mockk.io/
+* human-readable Kotlin DSL for IPCs & turning anything into a message receiver / broadcaster: https://github.com/DavidMellul/Kotlin-Publish-Subscribe
 
 ### References
 
