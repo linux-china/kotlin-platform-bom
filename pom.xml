@@ -42,7 +42,7 @@
         <kotson.version>2.5.0</kotson.version>
         <reflect.lite.version>1.0.0</reflect.lite.version>
         <katz.version>0.3.2</katz.version>
-        <result.version>1.3.0</result.version>
+        <result.version>1.4.0</result.version>
         <khronos.version>0.9.0</khronos.version>
         <time.version>1.0.1</time.version>
         <kotlin-logging.version>1.5.4</kotlin-logging.version>
@@ -60,7 +60,7 @@
         <!--network-->
         <khttp.version>0.1.0</khttp.version>
         <fuel.version>1.12.2</fuel.version>
-        <http4k.version>3.23.1</http4k.version>
+        <http4k.version>3.24.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>0.7.0</kotlinpoet.version>
         <!--persistence-->
