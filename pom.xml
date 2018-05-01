@@ -59,8 +59,8 @@
         <mockk.version>1.7.15</mockk.version>
         <!--network-->
         <khttp.version>0.1.0</khttp.version>
-        <fuel.version>1.12.2</fuel.version>
-        <http4k.version>3.26.1</http4k.version>
+        <fuel.version>1.13.0</fuel.version>
+        <http4k.version>3.26.5</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>0.7.0</kotlinpoet.version>
         <!--persistence-->
