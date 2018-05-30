@@ -47,7 +47,7 @@
         <time.version>1.0.1</time.version>
         <kotlin-logging.version>1.5.4</kotlin-logging.version>
         <kotlin-statistics.version>1.1.2</kotlin-statistics.version>
-        <physikal.version>1.1.3.4</physikal.version>
+        <physikal.version>1.1.3.5</physikal.version>
         <atomicfu.version>0.10.0-alpha-3</atomicfu.version>
         <!--code & classes-->
         <jetbrains-annotations.version>16.0.2</jetbrains-annotations.version>
