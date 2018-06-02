@@ -49,6 +49,7 @@
         <kotlin-statistics.version>1.1.2</kotlin-statistics.version>
         <physikal.version>1.1.3.5</physikal.version>
         <atomicfu.version>0.10.0-alpha-3</atomicfu.version>
+        <kodein.version>5.0.0</kodein.version>
         <!--code & classes-->
         <jetbrains-annotations.version>16.0.2</jetbrains-annotations.version>
         <!--testing-->
@@ -249,6 +250,11 @@
                 <groupId>io.mockk</groupId>
                 <artifactId>mockk</artifactId>
                 <version>${mockk.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.kodein.di</groupId>
+                <artifactId>kodein-di-generic-jvm</artifactId>
+                <version>${kodein.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
