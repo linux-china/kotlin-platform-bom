@@ -49,7 +49,7 @@
         <kotlin-statistics.version>1.1.2</kotlin-statistics.version>
         <physikal.version>1.1.3.5</physikal.version>
         <atomicfu.version>0.10.3</atomicfu.version>
-        <kodein.version>5.1.0</kodein.version>
+        <kodein.version>5.2.0</kodein.version>
         <!--code & classes-->
         <jetbrains-annotations.version>16.0.2</jetbrains-annotations.version>
         <!--testing-->
@@ -61,7 +61,7 @@
         <!--network-->
         <khttp.version>0.1.0</khttp.version>
         <fuel.version>1.13.0</fuel.version>
-        <http4k.version>3.30.0</http4k.version>
+        <http4k.version>3.31.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>0.7.0</kotlinpoet.version>
         <!--persistence-->
