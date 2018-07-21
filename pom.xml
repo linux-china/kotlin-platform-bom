@@ -50,6 +50,7 @@
         <physikal.version>2.0.0.0</physikal.version>
         <atomicfu.version>0.10.3</atomicfu.version>
         <kodein.version>5.2.0</kodein.version>
+        <kdispatcher.version>0.1.5</kdispatcher.version>
         <!--code & classes-->
         <jetbrains-annotations.version>16.0.2</jetbrains-annotations.version>
         <!--testing-->
@@ -160,6 +161,12 @@
                 <groupId>org.jetbrains.ktor</groupId>
                 <artifactId>ktor-core</artifactId>
                 <version>${ktor.version}</version>
+            </dependency>
+            <dependency>
+              <groupId>com.rasalexman.kdispatcher</groupId>
+              <artifactId>kdispatcher</artifactId>
+              <version>${kdispatcher.version}</version>
+              <type>pom</type>
             </dependency>
             <dependency>
                 <groupId>com.nhaarman</groupId>
