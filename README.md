@@ -45,6 +45,7 @@ class KotlinAssertionsExample {
 * date&time DSL： khronos， kizitonwose/Time 
 * MockK: mocking library for Kotlin http://mockk.io/
 * human-readable Kotlin DSL for IPCs & turning anything into a message receiver / broadcaster: https://github.com/DavidMellul/Kotlin-Publish-Subscribe
+* KDispatcher is a Kotlin EventDispatcher https://github.com/Rasalexman/KDispatcher
 
 ### References
 
