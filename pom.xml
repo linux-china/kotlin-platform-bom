@@ -50,7 +50,7 @@
         <physikal.version>2.0.2.0</physikal.version>
         <atomicfu.version>0.11.3</atomicfu.version>
         <kodein.version>5.2.0</kodein.version>
-        <kdispatcher.version>0.1.7</kdispatcher.version>
+        <kdispatcher.version>0.1.8</kdispatcher.version>
         <!--code & classes-->
         <jetbrains-annotations.version>16.0.2</jetbrains-annotations.version>
         <!--testing-->
@@ -62,7 +62,7 @@
         <!--network-->
         <khttp.version>0.1.0</khttp.version>
         <fuel.version>1.15.0</fuel.version>
-        <http4k.version>3.35.1</http4k.version>
+        <http4k.version>3.36.1</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.0.0-RC1</kotlinpoet.version>
         <!--persistence-->
