@@ -47,6 +47,7 @@ class KotlinAssertionsExample {
 * human-readable Kotlin DSL for IPCs & turning anything into a message receiver / broadcaster: https://github.com/DavidMellul/Kotlin-Publish-Subscribe
 * KDispatcher is a Kotlin EventDispatcher https://github.com/Rasalexman/KDispatcher
 * Kotlin dsl for spring mvc test： https://github.com/petrbalat/kd4smt
+* Klock: Klock is a Date & Time library for Multiplatform Kotlin 1.3 https://korlibs.soywiz.com/klock/
 
 ### References
 
