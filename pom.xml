@@ -51,6 +51,7 @@
         <atomicfu.version>0.11.12</atomicfu.version>
         <kodein.version>5.3.0</kodein.version>
         <kdispatcher.version>0.1.9</kdispatcher.version>
+        <klock.version>1.0.0</klock.version>
         <!--code & classes-->
         <jetbrains-annotations.version>16.0.3</jetbrains-annotations.version>
         <!--testing-->
@@ -169,6 +170,11 @@
                 <type>pom</type>
             </dependency>
             <dependency>
+                <groupId>com.soywiz</groupId>
+                <artifactId>klock-jvm</artifactId>
+                <version>${klock.version}</version>
+            </dependency>
+            <dependency>
                 <groupId>com.nhaarman</groupId>
                 <artifactId>mockito-kotlin</artifactId>
                 <version>${mockito-kotlin.version}</version>
@@ -276,6 +282,11 @@
             <id>jitpack</id>
             <name>jitpack</name>
             <url>https://jitpack.io</url>
+        </repository>
+        <repository>
+            <id>soywiz</id>
+            <name>soywiz</name>
+            <url>https://dl.bintray.com/soywiz/soywiz</url>
         </repository>
     </repositories>
 
