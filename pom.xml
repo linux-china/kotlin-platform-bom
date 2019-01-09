@@ -59,13 +59,13 @@
         <kotlintest.version>2.0.7</kotlintest.version>
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
-        <mockk.version>1.8.13.kotlin13</mockk.version>
+        <mockk.version>1.9</mockk.version>
         <!--network-->
         <khttp.version>0.1.0</khttp.version>
         <fuel.version>1.16.0</fuel.version>
         <http4k.version>3.106.0</http4k.version>
         <!--parsers & templates & serializer-->
-        <kotlinpoet.version>1.0.0</kotlinpoet.version>
+        <kotlinpoet.version>1.0.1</kotlinpoet.version>
         <!--persistence-->
         <exposed.version>0.11.2</exposed.version>
         <!--security-->
