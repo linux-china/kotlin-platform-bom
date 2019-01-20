@@ -67,7 +67,7 @@
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.0.1</kotlinpoet.version>
         <!--persistence-->
-        <exposed.version>0.11.2</exposed.version>
+        <exposed.version>0.12.1</exposed.version>
         <!--security-->
     </properties>
 
