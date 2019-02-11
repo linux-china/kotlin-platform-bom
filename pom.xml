@@ -51,7 +51,7 @@
         <atomicfu.version>0.12.1</atomicfu.version>
         <kodein.version>6.1.0</kodein.version>
         <kdispatcher.version>1.0.0</kdispatcher.version>
-        <klock.version>1.2.0</klock.version>
+        <klock.version>1.2.1</klock.version>
         <!--code & classes-->
         <jetbrains-annotations.version>17.0.0</jetbrains-annotations.version>
         <!--testing-->
