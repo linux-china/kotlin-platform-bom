@@ -48,6 +48,7 @@ class KotlinAssertionsExample {
 * KDispatcher is a Kotlin EventDispatcher https://github.com/Rasalexman/KDispatcher
 * Kotlin dsl for spring mvc test： https://github.com/petrbalat/kd4smt
 * Klock: Klock is a Date & Time library for Multiplatform Kotlin 1.3 https://korlibs.soywiz.com/klock/
+* SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito： https://github.com/Ninja-Squad/springmockk
 
 ### References
 
