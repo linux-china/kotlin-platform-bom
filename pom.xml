@@ -65,7 +65,7 @@
         <fuel.version>2.0.1</fuel.version>
         <http4k.version>3.114.0</http4k.version>
         <!--parsers & templates & serializer-->
-        <kotlinpoet.version>1.0.1</kotlinpoet.version>
+        <kotlinpoet.version>1.1.0</kotlinpoet.version>
         <!--persistence-->
         <exposed.version>0.12.2</exposed.version>
         <!--security-->
