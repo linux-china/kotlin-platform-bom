@@ -62,6 +62,7 @@
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <mockk.version>1.9.3</mockk.version>
+        <strikt.version>0.19.7</strikt.version>
         <!--network-->
         <khttp.version>0.1.0</khttp.version>
         <fuel.version>2.0.1</fuel.version>
@@ -280,6 +281,13 @@
                 <groupId>org.kodein.di</groupId>
                 <artifactId>kodein-di-generic-jvm</artifactId>
                 <version>${kodein.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.strikt</groupId>
+                <artifactId>strikt-bom</artifactId>
+                <version>${strikt.version}</version>
+                <scope>import</scope>
+                <type>pom</type>
             </dependency>
         </dependencies>
     </dependencyManagement>
