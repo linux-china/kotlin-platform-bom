@@ -51,7 +51,7 @@ class KotlinAssertionsExample {
 * SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito： https://github.com/Ninja-Squad/springmockk
 * Strikt: assertion library for Kotlin intended for use with a test runner: https://strikt.io/
 * mapdb: MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory https://github.com/jankotek/mapdb
-
+* fakeit: The Kotlin fake data generator library https://github.com/moove-it/fakeit
 ### References
 
 * https://kotlin.link/
