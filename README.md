@@ -35,6 +35,7 @@ class KotlinAssertionsExample {
     }
 }
 ```
+* assertk: https://github.com/willowtreeapps/assertk 
 * katz: Functional Data Types and abstractions for Kotlin https://github.com/FineCinnamon/Katz
 * fuel: Kotlin Http Client
 * kolor: A library to print colored strings https://github.com/ziggy42/kolor
