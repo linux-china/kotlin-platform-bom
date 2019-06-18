@@ -63,7 +63,7 @@
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.17</assertk.version>
         <mockk.version>1.9.3</mockk.version>
-        <strikt.version>0.20.1</strikt.version>
+        <strikt.version>0.21.0</strikt.version>
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.1.0</fuel.version>
@@ -71,7 +71,7 @@
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.3.0</kotlinpoet.version>
         <!--persistence-->
-        <exposed.version>0.14.3</exposed.version>
+        <exposed.version>0.14.4</exposed.version>
         <mapdb.version>3.0.7</mapdb.version>
         <!--security-->
     </properties>
