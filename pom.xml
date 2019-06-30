@@ -36,8 +36,8 @@
         <!--system management & monitor-->
         <!--productivity & tools-->
         <funktionale.version>1.2</funktionale.version>
-        <rx2kotlin.version>2.3.0</rx2kotlin.version>
-        <kotlinx-coroutines.version>1.2.1</kotlinx-coroutines.version>
+        <rx2kotlin.version>2.4.0-beta.1</rx2kotlin.version>
+        <kotlinx-coroutines.version>1.3.0-M2</kotlinx-coroutines.version>
         <kotlinx-serialization.version>0.11.1</kotlinx-serialization.version>
         <kotlinx-io.version>0.1.10</kotlinx-io.version>
         <kotson.version>2.5.0</kotson.version>
@@ -66,7 +66,7 @@
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.1.0</fuel.version>
-        <http4k.version>3.158.0</http4k.version>
+        <http4k.version>3.159.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.3.0</kotlinpoet.version>
         <!--persistence-->
