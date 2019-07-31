@@ -67,7 +67,7 @@
         <strikt.version>0.21.1</strikt.version>
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
-        <fuel.version>2.1.0</fuel.version>
+        <fuel.version>2.2.0</fuel.version>
         <http4k.version>3.168.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.3.0</kotlinpoet.version>
