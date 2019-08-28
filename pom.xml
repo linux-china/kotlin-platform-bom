@@ -68,7 +68,7 @@
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.2.0</fuel.version>
-        <http4k.version>3.175.0</http4k.version>
+        <http4k.version>3.177.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.3.0</kotlinpoet.version>
         <!--persistence-->
