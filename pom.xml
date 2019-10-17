@@ -53,7 +53,7 @@
         <physikal.version>2.0.3.2</physikal.version>
         <atomicfu.version>0.13.2</atomicfu.version>
         <kodein.version>6.4.1</kodein.version>
-        <kdispatcher.version>1.1.2</kdispatcher.version>
+        <kdispatcher.version>1.1.3</kdispatcher.version>
         <klock.version>1.4.0</klock.version>
         <!--code & classes-->
         <jetbrains-annotations.version>17.0.0</jetbrains-annotations.version>
