@@ -70,7 +70,7 @@
         <fuel.version>2.2.1</fuel.version>
         <http4k.version>3.194.0</http4k.version>
         <!--parsers & templates & serializer-->
-        <kotlinpoet.version>1.4.2</kotlinpoet.version>
+        <kotlinpoet.version>1.4.3</kotlinpoet.version>
         <!--persistence-->
         <exposed.version>0.17.6</exposed.version>
         <mapdb.version>3.0.7</mapdb.version>
