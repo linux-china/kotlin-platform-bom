@@ -72,7 +72,7 @@
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.4.3</kotlinpoet.version>
         <!--persistence-->
-        <exposed.version>0.17.6</exposed.version>
+        <exposed.version>0.17.7</exposed.version>
         <mapdb.version>3.0.7</mapdb.version>
         <!--security-->
     </properties>
