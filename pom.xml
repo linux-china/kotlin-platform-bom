@@ -71,6 +71,7 @@
         <http4k.version>3.208.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.4.4</kotlinpoet.version>
+        <moshi.version>1.9.2</moshi.version>
         <!--persistence-->
         <exposed.version>0.20.2</exposed.version>
         <mapdb.version>3.0.8</mapdb.version>
@@ -155,6 +156,11 @@
                 <groupId>com.squareup</groupId>
                 <artifactId>kotlinpoet</artifactId>
                 <version>${kotlinpoet.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.squareup.moshi</groupId>
+                <artifactId>moshi</artifactId>
+                <version>${moshi.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.jetbrains.exposed</groupId>
