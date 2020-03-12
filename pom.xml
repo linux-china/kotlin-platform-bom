@@ -64,7 +64,7 @@
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.17</assertk.version>
         <mockk.version>1.9.3</mockk.version>
-        <strikt.version>0.23.3</strikt.version>
+        <strikt.version>0.24.0</strikt.version>
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.2.1</fuel.version>
@@ -308,6 +308,11 @@
             <id>jitpack</id>
             <name>jitpack</name>
             <url>https://jitpack.io</url>
+        </repository>
+        <repository>
+            <id>strikt-repo</id>
+            <name>strikt maven repo</name>
+            <url>https://dl.bintray.com/robfletcher/maven/</url>
         </repository>
         <repository>
             <id>soywiz</id>
