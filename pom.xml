@@ -62,7 +62,7 @@
         <kotlintest.version>2.0.7</kotlintest.version>
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
-        <assertk.version>0.17</assertk.version>
+        <assertk.version>0.22</assertk.version>
         <mockk.version>1.10.0</mockk.version>
         <strikt.version>0.26.0</strikt.version>
         <!--network-->
