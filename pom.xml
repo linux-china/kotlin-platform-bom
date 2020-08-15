@@ -38,7 +38,7 @@
         <funktionale.version>1.2</funktionale.version>
         <rx2kotlin.version>2.4.0</rx2kotlin.version>
         <kotlinx-coroutines.version>1.3.9</kotlinx-coroutines.version>
-        <kotlinx-serialization.version>0.20.0</kotlinx-serialization.version>
+        <kotlinx-serialization.version>1.0.0-RC</kotlinx-serialization.version>
         <kotlinx-io.version>0.1.16</kotlinx-io.version>
         <kotlinx-collection-immutable.version>0.3</kotlinx-collection-immutable.version>
         <kotson.version>2.5.0</kotson.version>
@@ -119,7 +119,7 @@
             </dependency>
             <dependency>
                 <groupId>org.jetbrains.kotlinx</groupId>
-                <artifactId>kotlinx-serialization-runtime</artifactId>
+                <artifactId>kotlinx-serialization-core</artifactId>
                 <version>${kotlinx-serialization.version}</version>
             </dependency>
             <dependency>
