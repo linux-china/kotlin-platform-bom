@@ -47,7 +47,7 @@
         <result.version>3.1.0</result.version>
         <khronos.version>0.9.0</khronos.version>
         <time.version>1.0.4</time.version>
-        <kotlin-logging.version>1.7.8</kotlin-logging.version>
+        <kotlin-logging.version>1.8.3</kotlin-logging.version>
         <kotlin-statistics.version>1.2.1</kotlin-statistics.version>
 
         <physikal.version>2.0.3.2</physikal.version>
@@ -71,7 +71,7 @@
         <http4k.version>3.246.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.4.4</kotlinpoet.version>
-        <moshi.version>1.9.3</moshi.version>
+        <moshi.version>1.10.0</moshi.version>
         <!--persistence-->
         <exposed.version>0.21.1</exposed.version>
         <mapdb.version>3.0.8</mapdb.version>
