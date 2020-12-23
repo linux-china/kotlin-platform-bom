@@ -30,7 +30,7 @@
     </developers>
 
     <properties>
-        <kotlin.version>1.4.21</kotlin.version>
+        <kotlin.version>1.4.30-M1</kotlin.version>
         <!--web development & GUI-->
         <ktor.version>0.4.0</ktor.version>
         <!--system management & monitor-->
@@ -40,40 +40,40 @@
         <kotlinx-coroutines.version>1.4.1</kotlinx-coroutines.version>
         <kotlinx-serialization.version>1.0.1</kotlinx-serialization.version>
         <kotlinx-io.version>0.1.16</kotlinx-io.version>
-        <kotlinx-collection-immutable.version>0.3</kotlinx-collection-immutable.version>
+        <kotlinx-collection-immutable.version>0.3.3</kotlinx-collection-immutable.version>
         <kotson.version>2.5.0</kotson.version>
         <reflect.lite.version>1.0.0</reflect.lite.version>
         <katz.version>0.3.2</katz.version>
         <result.version>3.1.0</result.version>
         <khronos.version>0.9.0</khronos.version>
         <time.version>1.0.4</time.version>
-        <kotlin-logging.version>1.8.3</kotlin-logging.version>
+        <kotlin-logging.version>2.0.4</kotlin-logging.version>
         <kotlin-statistics.version>1.2.1</kotlin-statistics.version>
 
         <physikal.version>2.0.3.2</physikal.version>
-        <atomicfu.version>0.14.2</atomicfu.version>
-        <kodein.version>6.5.1</kodein.version>
-        <kdispatcher.version>1.1.3</kdispatcher.version>
+        <atomicfu.version>0.15.0</atomicfu.version>
+        <kodein.version>6.5.5</kodein.version>
+        <kdispatcher.version>1.1.7</kdispatcher.version>
         <klock.version>1.11.1</klock.version>
         <!--code & classes-->
         <jetbrains-annotations.version>20.1.0</jetbrains-annotations.version>
         <!--testing-->
         <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
-        <kotest.version>4.0.5</kotest.version>
+        <kotest.version>4.3.2</kotest.version>
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.22</assertk.version>
-        <mockk.version>1.10.2</mockk.version>
+        <mockk.version>1.10.3</mockk.version>
         <strikt.version>0.28.1</strikt.version>
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
-        <fuel.version>2.3.0</fuel.version>
-        <http4k.version>3.266.0</http4k.version>
+        <fuel.version>2.3.1</fuel.version>
+        <http4k.version>3.284.0</http4k.version>
         <!--parsers & templates & serializer-->
-        <kotlinpoet.version>1.7.0</kotlinpoet.version>
+        <kotlinpoet.version>1.7.2</kotlinpoet.version>
         <moshi.version>1.11.0</moshi.version>
         <!--persistence-->
-        <exposed.version>0.21.1</exposed.version>
+        <exposed.version>0.28.1</exposed.version>
         <mapdb.version>3.0.8</mapdb.version>
         <!--security-->
     </properties>
