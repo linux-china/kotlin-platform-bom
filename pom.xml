@@ -63,7 +63,7 @@
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.22</assertk.version>
-        <mockk.version>1.10.3</mockk.version>
+        <mockk.version>1.10.4</mockk.version>
         <strikt.version>0.28.1</strikt.version>
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
