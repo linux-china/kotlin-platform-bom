@@ -30,7 +30,7 @@
     </developers>
 
     <properties>
-        <kotlin.version>1.4.30-M1</kotlin.version>
+        <kotlin.version>1.4.30-RC</kotlin.version>
         <!--web development & GUI-->
         <ktor.version>0.4.0</ktor.version>
         <!--system management & monitor-->
