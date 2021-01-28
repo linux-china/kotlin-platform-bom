@@ -64,7 +64,7 @@
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.22</assertk.version>
         <mockk.version>1.10.5</mockk.version>
-        <strikt.version>0.28.1</strikt.version>
+        <strikt.version>0.28.2</strikt.version>
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.3.1</fuel.version>
