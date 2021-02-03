@@ -30,7 +30,7 @@
     </developers>
 
     <properties>
-        <kotlin.version>1.4.30-RC</kotlin.version>
+        <kotlin.version>1.4.30</kotlin.version>
         <!--web development & GUI-->
         <ktor.version>0.4.0</ktor.version>
         <!--system management & monitor-->
@@ -59,7 +59,7 @@
         <jetbrains-annotations.version>20.1.0</jetbrains-annotations.version>
         <!--testing-->
         <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
-        <kotest.version>4.4.0.RC2</kotest.version>
+        <kotest.version>4.4.0</kotest.version>
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.22</assertk.version>
@@ -68,7 +68,7 @@
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.3.1</fuel.version>
-        <http4k.version>4.1.1.2</http4k.version>
+        <http4k.version>4.2.0.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.7.2</kotlinpoet.version>
         <moshi.version>1.11.0</moshi.version>
