@@ -30,7 +30,7 @@
     </developers>
 
     <properties>
-        <kotlin.version>1.4.31</kotlin.version>
+        <kotlin.version>1.4.32</kotlin.version>
         <!--web development & GUI-->
         <ktor.version>0.4.0</ktor.version>
         <!--system management & monitor-->
@@ -51,7 +51,7 @@
         <kotlin-statistics.version>1.2.1</kotlin-statistics.version>
 
         <physikal.version>2.0.3.2</physikal.version>
-        <atomicfu.version>0.15.0</atomicfu.version>
+        <atomicfu.version>0.15.2</atomicfu.version>
         <kodein.version>6.5.5</kodein.version>
         <kdispatcher.version>1.1.8</kdispatcher.version>
         <klock.version>1.11.1</klock.version>
@@ -68,7 +68,7 @@
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.3.1</fuel.version>
-        <http4k.version>4.4.2.0</http4k.version>
+        <http4k.version>4.5.0.1</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.7.2</kotlinpoet.version>
         <moshi.version>1.11.0</moshi.version>
