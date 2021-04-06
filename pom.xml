@@ -14,7 +14,7 @@
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
-            <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+            <url>https://www.apache.org/licenses/LICENSE-2.0</url>
         </license>
     </licenses>
     <scm>
@@ -38,9 +38,9 @@
         <funktionale.version>1.2</funktionale.version>
         <rx2kotlin.version>2.4.0</rx2kotlin.version>
         <kotlinx-coroutines.version>1.4.1</kotlinx-coroutines.version>
-        <kotlinx-serialization.version>1.0.1</kotlinx-serialization.version>
+        <kotlinx-serialization.version>1.1.0</kotlinx-serialization.version>
         <kotlinx-io.version>0.1.16</kotlinx-io.version>
-        <kotlinx-collection-immutable.version>0.3.3</kotlinx-collection-immutable.version>
+        <kotlinx-collection-immutable.version>0.3.4</kotlinx-collection-immutable.version>
         <kotson.version>2.5.0</kotson.version>
         <reflect.lite.version>1.0.0</reflect.lite.version>
         <katz.version>0.3.2</katz.version>
@@ -62,7 +62,7 @@
         <kotest.version>4.4.3</kotest.version>
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
-        <assertk.version>0.22</assertk.version>
+        <assertk.version>0.23.1</assertk.version>
         <mockk.version>1.11.0</mockk.version>
         <strikt.version>0.30.0</strikt.version>
         <!--network-->
@@ -70,10 +70,10 @@
         <fuel.version>2.3.1</fuel.version>
         <http4k.version>4.5.0.1</http4k.version>
         <!--parsers & templates & serializer-->
-        <kotlinpoet.version>1.7.2</kotlinpoet.version>
-        <moshi.version>1.11.0</moshi.version>
+        <kotlinpoet.version>1.8.0</kotlinpoet.version>
+        <moshi.version>1.12.0</moshi.version>
         <!--persistence-->
-        <exposed.version>0.29.1</exposed.version>
+        <exposed.version>0.30.1</exposed.version>
         <mapdb.version>3.0.8</mapdb.version>
         <!--security-->
     </properties>
