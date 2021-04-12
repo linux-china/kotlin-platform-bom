@@ -64,11 +64,11 @@
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.23.1</assertk.version>
         <mockk.version>1.11.0</mockk.version>
-        <strikt.version>0.30.0</strikt.version>
+        <strikt.version>0.30.1</strikt.version>
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.3.1</fuel.version>
-        <http4k.version>4.6.0.0</http4k.version>
+        <http4k.version>4.7.0.2</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.8.0</kotlinpoet.version>
         <moshi.version>1.12.0</moshi.version>
