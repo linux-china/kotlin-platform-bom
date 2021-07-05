@@ -30,7 +30,7 @@
     </developers>
 
     <properties>
-        <kotlin.version>1.5.20-RC</kotlin.version>
+        <kotlin.version>1.5.20</kotlin.version>
         <!--web development & GUI-->
         <ktor.version>0.4.0</ktor.version>
         <!--system management & monitor-->
@@ -63,12 +63,12 @@
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.24.0</assertk.version>
-        <mockk.version>1.11.0</mockk.version>
+        <mockk.version>1.12.0</mockk.version>
         <strikt.version>0.31.0</strikt.version>
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.3.1</fuel.version>
-        <http4k.version>4.9.8.0</http4k.version>
+        <http4k.version>4.9.9.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.9.0</kotlinpoet.version>
         <moshi.version>1.12.0</moshi.version>
