@@ -32,7 +32,7 @@
     <properties>
         <kotlin.version>1.5.21</kotlin.version>
         <!--web development & GUI-->
-        <ktor.version>0.4.0</ktor.version>
+        <ktor.version>1.6.1</ktor.version>
         <!--system management & monitor-->
         <!--productivity & tools-->
         <funktionale.version>1.2</funktionale.version>
@@ -68,7 +68,7 @@
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.3.1</fuel.version>
-        <http4k.version>4.10.0.1</http4k.version>
+        <http4k.version>4.10.1.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.9.0</kotlinpoet.version>
         <moshi.version>1.12.0</moshi.version>
@@ -166,11 +166,6 @@
                 <groupId>org.jetbrains.exposed</groupId>
                 <artifactId>spring-transaction</artifactId>
                 <version>${exposed.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.jetbrains.ktor</groupId>
-                <artifactId>ktor-core</artifactId>
-                <version>${ktor.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.rasalexman.kdispatcher</groupId>
@@ -276,29 +271,21 @@
                 <scope>import</scope>
                 <type>pom</type>
             </dependency>
+            <dependency>
+                <groupId>io.ktor</groupId>
+                <artifactId>ktor-bom</artifactId>
+                <version>${ktor.version}</version>
+                <scope>import</scope>
+                <type>pom</type>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
     <repositories>
         <repository>
-            <id>central</id>
-            <name>bintray</name>
-            <url>http://jcenter.bintray.com</url>
-        </repository>
-        <repository>
             <id>jitpack</id>
             <name>jitpack</name>
             <url>https://jitpack.io</url>
-        </repository>
-        <repository>
-            <id>strikt-repo</id>
-            <name>strikt maven repo</name>
-            <url>https://dl.bintray.com/robfletcher/maven/</url>
-        </repository>
-        <repository>
-            <id>soywiz</id>
-            <name>soywiz</name>
-            <url>https://dl.bintray.com/soywiz/soywiz</url>
         </repository>
     </repositories>
 
