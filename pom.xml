@@ -50,11 +50,11 @@
         <kotlin-logging.version>2.0.10</kotlin-logging.version>
         <kotlin-statistics.version>1.2.1</kotlin-statistics.version>
 
-        <physikal.version>2.0.3.2</physikal.version>
+        <physikal.version>2.3.0.2</physikal.version>
         <atomicfu.version>0.16.2</atomicfu.version>
-        <kodein.version>6.5.5</kodein.version>
-        <kdispatcher.version>1.1.9</kdispatcher.version>
-        <klock.version>1.11.1</klock.version>
+        <kodein.version>7.6.0</kodein.version>
+        <kdispatcher.version>1.1.92</kdispatcher.version>
+        <klock.version>2.3.0</klock.version>
         <!--code & classes-->
         <jetbrains-annotations.version>21.0.1</jetbrains-annotations.version>
         <!--testing-->
@@ -174,7 +174,7 @@
                 <type>pom</type>
             </dependency>
             <dependency>
-                <groupId>com.soywiz</groupId>
+                <groupId>com.soywiz.korlibs.klock</groupId>
                 <artifactId>klock-jvm</artifactId>
                 <version>${klock.version}</version>
             </dependency>
@@ -256,7 +256,7 @@
             </dependency>
             <dependency>
                 <groupId>org.kodein.di</groupId>
-                <artifactId>kodein-di-generic-jvm</artifactId>
+                <artifactId>kodein-di</artifactId>
                 <version>${kodein.version}</version>
             </dependency>
             <dependency>
