@@ -43,7 +43,7 @@
         <kotlinx-collection-immutable.version>0.3.4</kotlinx-collection-immutable.version>
         <kotson.version>2.5.0</kotson.version>
         <reflect.lite.version>1.0.0</reflect.lite.version>
-        <katz.version>0.3.2</katz.version>
+        <arrow.version>0.13.2</arrow.version>
         <result.version>5.1.0</result.version>
         <khronos.version>0.9.0</khronos.version>
         <time.version>1.0.4</time.version>
@@ -258,6 +258,11 @@
                 <groupId>org.kodein.di</groupId>
                 <artifactId>kodein-di-generic-jvm</artifactId>
                 <version>${kodein.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.arrow-kt</groupId>
+                <artifactId>arrow-core</artifactId>
+                <version>${arrow.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.mapdb</groupId>
