@@ -32,7 +32,7 @@
     <properties>
         <kotlin.version>1.5.21</kotlin.version>
         <!--web development & GUI-->
-        <ktor.version>1.6.1</ktor.version>
+        <ktor.version>1.6.2</ktor.version>
         <!--system management & monitor-->
         <!--productivity & tools-->
         <funktionale.version>1.2</funktionale.version>
@@ -54,7 +54,7 @@
         <atomicfu.version>0.16.2</atomicfu.version>
         <kodein.version>7.6.0</kodein.version>
         <kdispatcher.version>1.1.92</kdispatcher.version>
-        <klock.version>2.3.0</klock.version>
+        <klock.version>2.3.1</klock.version>
         <!--code & classes-->
         <jetbrains-annotations.version>21.0.1</jetbrains-annotations.version>
         <!--testing-->
