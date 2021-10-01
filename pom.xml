@@ -32,7 +32,7 @@
     <properties>
         <kotlin.version>1.6.0-M1</kotlin.version>
         <!--web development & GUI-->
-        <ktor.version>1.6.3</ktor.version>
+        <ktor.version>1.6.4</ktor.version>
         <!--system management & monitor-->
         <!--productivity & tools-->
         <funktionale.version>1.2</funktionale.version>
