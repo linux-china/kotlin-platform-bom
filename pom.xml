@@ -202,6 +202,7 @@
                 <groupId>org.http4k</groupId>
                 <artifactId>http4k-bom</artifactId>
                 <version>${http4k.version}</version>
+                <type>pom</type>
                 <scope>import</scope>
             </dependency>
             <dependency>
