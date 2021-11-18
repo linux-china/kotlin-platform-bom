@@ -51,7 +51,7 @@
         <kotlin-statistics.version>1.2.1</kotlin-statistics.version>
 
         <physikal.version>2.3.0.2</physikal.version>
-        <atomicfu.version>0.16.3</atomicfu.version>
+        <atomicfu.version>0.17.0</atomicfu.version>
         <kodein.version>7.9.0</kodein.version>
         <kdispatcher.version>1.1.92</kdispatcher.version>
         <klock.version>2.4.8</klock.version>
@@ -59,12 +59,12 @@
         <jetbrains-annotations.version>23.0.0</jetbrains-annotations.version>
         <!--testing-->
         <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
-        <kotest.version>5.0.0.M4</kotest.version>
+        <kotest.version>5.0.0.RC</kotest.version>
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.25.0</assertk.version>
         <mockk.version>1.12.1</mockk.version>
-        <strikt.version>0.32.0</strikt.version>
+        <strikt.version>0.33.0</strikt.version>
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.3.1</fuel.version>
