@@ -30,9 +30,9 @@
     </developers>
 
     <properties>
-        <kotlin.version>1.6.0</kotlin.version>
+        <kotlin.version>1.6.10-RC</kotlin.version>
         <!--web development & GUI-->
-        <ktor.version>1.6.6</ktor.version>
+        <ktor.version>1.6.7</ktor.version>
         <!--system management & monitor-->
         <!--productivity & tools-->
         <funktionale.version>1.2</funktionale.version>
@@ -47,7 +47,7 @@
         <result.version>5.2.0</result.version>
         <khronos.version>0.9.0</khronos.version>
         <time.version>1.0.4</time.version>
-        <kotlin-logging.version>2.1.15</kotlin-logging.version>
+        <kotlin-logging.version>2.1.16</kotlin-logging.version>
         <kotlin-statistics.version>1.2.1</kotlin-statistics.version>
 
         <physikal.version>2.3.0.2</physikal.version>
@@ -59,7 +59,7 @@
         <jetbrains-annotations.version>23.0.0</jetbrains-annotations.version>
         <!--testing-->
         <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
-        <kotest.version>5.0.1</kotest.version>
+        <kotest.version>5.0.2</kotest.version>
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.25.0</assertk.version>
@@ -68,10 +68,10 @@
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.3.1</fuel.version>
-        <http4k.version>4.17.2.0</http4k.version>
+        <http4k.version>4.17.3.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.10.2</kotlinpoet.version>
-        <moshi.version>1.12.0</moshi.version>
+        <moshi.version>1.13.0</moshi.version>
         <!--persistence-->
         <exposed.version>0.36.2</exposed.version>
         <mapdb.version>3.0.8</mapdb.version>
