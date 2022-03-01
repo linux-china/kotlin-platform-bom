@@ -54,7 +54,7 @@
         <atomicfu.version>0.17.1</atomicfu.version>
         <kodein.version>7.11.0</kodein.version>
         <kdispatcher.version>1.1.92</kdispatcher.version>
-        <klock.version>2.5.2</klock.version>
+        <klock.version>2.5.3</klock.version>
         <!--code & classes-->
         <jetbrains-annotations.version>23.0.0</jetbrains-annotations.version>
         <!--testing-->
@@ -63,12 +63,12 @@
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.25.0</assertk.version>
-        <mockk.version>1.12.2</mockk.version>
+        <mockk.version>1.12.3</mockk.version>
         <strikt.version>0.34.1</strikt.version>
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.3.1</fuel.version>
-        <http4k.version>4.19.4.0</http4k.version>
+        <http4k.version>4.19.5.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.10.2</kotlinpoet.version>
         <moshi.version>1.13.0</moshi.version>
