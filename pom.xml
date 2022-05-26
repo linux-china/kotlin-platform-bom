@@ -68,7 +68,7 @@
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.3.1</fuel.version>
-        <http4k.version>4.25.16.1</http4k.version>
+        <http4k.version>4.25.16.2</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.11.0</kotlinpoet.version>
         <moshi.version>1.13.0</moshi.version>
