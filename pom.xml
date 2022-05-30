@@ -51,10 +51,10 @@
         <kotlin-statistics.version>1.2.1</kotlin-statistics.version>
 
         <physikal.version>2.3.0.2</physikal.version>
-        <atomicfu.version>0.17.2</atomicfu.version>
+        <atomicfu.version>0.17.3</atomicfu.version>
         <kodein.version>7.11.0</kodein.version>
         <kdispatcher.version>1.1.92</kdispatcher.version>
-        <klock.version>3.0.0-Beta2</klock.version>
+        <klock.version>3.0.0-Beta3</klock.version>
         <!--code & classes-->
         <jetbrains-annotations.version>23.0.0</jetbrains-annotations.version>
         <!--testing-->
