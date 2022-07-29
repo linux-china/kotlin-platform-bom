@@ -30,7 +30,7 @@
     </developers>
 
     <properties>
-        <kotlin.version>1.7.10</kotlin.version>
+        <kotlin.version>1.7.20-Beta</kotlin.version>
         <!--web development & GUI-->
         <ktor.version>2.0.3</ktor.version>
         <!--system management & monitor-->
@@ -59,7 +59,7 @@
         <jetbrains-annotations.version>23.0.0</jetbrains-annotations.version>
         <!--testing-->
         <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
-        <kotest.version>5.4.0</kotest.version>
+        <kotest.version>5.4.1</kotest.version>
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.25.0</assertk.version>
