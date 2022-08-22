@@ -38,7 +38,7 @@
         <funktionale.version>1.2</funktionale.version>
         <rx2kotlin.version>2.4.0</rx2kotlin.version>
         <kotlinx-coroutines.version>1.6.4</kotlinx-coroutines.version>
-        <kotlinx-serialization.version>1.4.0-RC</kotlinx-serialization.version>
+        <kotlinx-serialization.version>1.4.0</kotlinx-serialization.version>
         <kotlinx-io.version>0.1.16</kotlinx-io.version>
         <kotlinx-collection-immutable.version>0.3.5</kotlinx-collection-immutable.version>
         <kotson.version>2.5.0</kotson.version>
@@ -63,12 +63,12 @@
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.25.0</assertk.version>
-        <mockk.version>1.12.5</mockk.version>
+        <mockk.version>1.12.6</mockk.version>
         <strikt.version>0.34.1</strikt.version>
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.3.1</fuel.version>
-        <http4k.version>4.28.0.0</http4k.version>
+        <http4k.version>4.28.2.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.12.0</kotlinpoet.version>
         <moshi.version>1.13.0</moshi.version>
