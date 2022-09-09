@@ -30,9 +30,9 @@
     </developers>
 
     <properties>
-        <kotlin.version>1.7.20-Beta</kotlin.version>
+        <kotlin.version>1.7.20-RC</kotlin.version>
         <!--web development & GUI-->
-        <ktor.version>2.1.0</ktor.version>
+        <ktor.version>2.1.1</ktor.version>
         <!--system management & monitor-->
         <!--productivity & tools-->
         <funktionale.version>1.2</funktionale.version>
@@ -42,7 +42,7 @@
         <kotlinx-io.version>0.1.16</kotlinx-io.version>
         <kotlinx-collection-immutable.version>0.3.5</kotlinx-collection-immutable.version>
         <kotson.version>2.5.0</kotson.version>
-        <reflect.lite.version>1.0.0</reflect.lite.version>
+        <reflect.lite.version>1.1.0</reflect.lite.version>
         <arrow.version>1.1.2</arrow.version>
         <result.version>5.2.1</result.version>
         <khronos.version>0.9.0</khronos.version>
@@ -54,7 +54,7 @@
         <atomicfu.version>0.18.3</atomicfu.version>
         <kodein.version>7.14.0</kodein.version>
         <kdispatcher.version>1.1.92</kdispatcher.version>
-        <klock.version>3.0.0</klock.version>
+        <klock.version>3.1.0</klock.version>
         <!--code & classes-->
         <jetbrains-annotations.version>23.0.0</jetbrains-annotations.version>
         <!--testing-->
@@ -68,10 +68,10 @@
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>2.3.1</fuel.version>
-        <http4k.version>4.28.3.0</http4k.version>
+        <http4k.version>4.30.4.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.12.0</kotlinpoet.version>
-        <moshi.version>1.13.0</moshi.version>
+        <moshi.version>1.14.0</moshi.version>
         <!--persistence-->
         <exposed.version>0.39.2</exposed.version>
         <mapdb.version>3.0.8</mapdb.version>
