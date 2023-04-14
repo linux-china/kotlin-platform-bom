@@ -55,6 +55,7 @@ class KotlinAssertionsExample {
 * fakeit: The Kotlin fake data generator library https://github.com/moove-it/fakeit
 * The simple, stupid random Java beans generator: https://github.com/j-easy/easy-random
 * Kotlin Multiplatform Arithmatic Parser:  https://github.com/KaenDagger/KParser
+* dataframe: Structured data processing in Kotlin - https://github.com/Kotlin/dataframe
 
 ### References
 
