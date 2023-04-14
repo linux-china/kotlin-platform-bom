@@ -56,18 +56,19 @@
         <klock.version>3.4.0</klock.version>
         <!--code & classes-->
         <jetbrains-annotations.version>24.0.1</jetbrains-annotations.version>
+        <dataframe.version>0.10.0</dataframe.version>
         <!--testing-->
         <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
         <kotest.version>5.5.5</kotest.version>
         <spek.version>1.2.1</spek.version>
         <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
         <assertk.version>0.25.0</assertk.version>
-        <mockk.version>1.13.4</mockk.version>
+        <mockk.version>1.13.5</mockk.version>
         <strikt.version>0.34.1</strikt.version>
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
-        <fuel.version>2.3.1</fuel.version>
-        <http4k.version>4.41.3.0</http4k.version>
+        <fuel.version>3.0.0-alpha01</fuel.version>
+        <http4k.version>4.41.4.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.13.0</kotlinpoet.version>
         <moshi.version>1.14.0</moshi.version>
@@ -130,6 +131,11 @@
                 <groupId>org.jetbrains.kotlinx</groupId>
                 <artifactId>kotlinx-collections-immutable</artifactId>
                 <version>${kotlinx-collection-immutable.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jetbrains.kotlinx</groupId>
+                <artifactId>dataframe</artifactId>
+                <version>${dataframe.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.github.salomonbrys.kotson</groupId>
