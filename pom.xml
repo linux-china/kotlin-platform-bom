@@ -30,7 +30,7 @@
     </developers>
 
     <properties>
-        <kotlin.version>1.8.20</kotlin.version>
+        <kotlin.version>1.8.21</kotlin.version>
         <!--web development & GUI-->
         <ktor.version>2.3.0</ktor.version>
         <!--system management & monitor-->
