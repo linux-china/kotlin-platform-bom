@@ -38,7 +38,7 @@
         <funktionale.version>1.2</funktionale.version>
         <rx2kotlin.version>2.4.0</rx2kotlin.version>
         <kotlinx-coroutines.version>1.7.0</kotlinx-coroutines.version>
-        <kotlinx-serialization.version>1.5.0</kotlinx-serialization.version>
+        <kotlinx-serialization.version>1.5.1</kotlinx-serialization.version>
         <kotlinx-io.version>0.1.16</kotlinx-io.version>
         <kotlinx-collection-immutable.version>0.3.5</kotlinx-collection-immutable.version>
         <kotson.version>2.5.0</kotson.version>
