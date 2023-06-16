@@ -53,7 +53,7 @@
         <atomicfu.version>0.20.2</atomicfu.version>
         <kodein.version>7.20.1</kodein.version>
         <kdispatcher.version>1.1.92</kdispatcher.version>
-        <klock.version>4.0.3</klock.version>
+        <klock.version>4.0.6</klock.version>
         <!--code & classes-->
         <jetbrains-annotations.version>24.0.1</jetbrains-annotations.version>
         <dataframe.version>0.10.1</dataframe.version>
@@ -68,7 +68,7 @@
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>3.0.0-alpha01</fuel.version>
-        <http4k.version>4.47.1.0</http4k.version>
+        <http4k.version>4.48.0.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.14.2</kotlinpoet.version>
         <moshi.version>1.15.0</moshi.version>
