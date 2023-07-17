@@ -43,7 +43,7 @@
         <kotlinx-collection-immutable.version>0.3.5</kotlinx-collection-immutable.version>
         <kotson.version>2.5.0</kotson.version>
         <reflect.lite.version>1.1.0</reflect.lite.version>
-        <arrow.version>1.1.5</arrow.version>
+        <arrow.version>1.2.0</arrow.version>
         <result.version>5.4.0</result.version>
         <khronos.version>0.9.0</khronos.version>
         <time.version>1.0.4</time.version>
@@ -53,7 +53,7 @@
         <atomicfu.version>0.21.0</atomicfu.version>
         <kodein.version>7.20.2</kodein.version>
         <kdispatcher.version>1.1.92</kdispatcher.version>
-        <klock.version>4.0.8</klock.version>
+        <klock.version>4.0.9</klock.version>
         <!--code & classes-->
         <jetbrains-annotations.version>24.0.1</jetbrains-annotations.version>
         <dataframe.version>0.11.0</dataframe.version>
