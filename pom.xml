@@ -32,13 +32,13 @@
     <properties>
         <kotlin.version>1.9.0</kotlin.version>
         <!--web development & GUI-->
-        <ktor.version>2.3.2</ktor.version>
+        <ktor.version>2.3.3</ktor.version>
         <!--system management & monitor-->
         <!--productivity & tools-->
         <funktionale.version>1.2</funktionale.version>
         <rx2kotlin.version>2.4.0</rx2kotlin.version>
         <kotlinx-coroutines.version>1.7.0</kotlinx-coroutines.version>
-        <kotlinx-serialization.version>1.5.1</kotlinx-serialization.version>
+        <kotlinx-serialization.version>1.6.0-RC</kotlinx-serialization.version>
         <kotlinx-io.version>0.1.16</kotlinx-io.version>
         <kotlinx-collection-immutable.version>0.3.5</kotlinx-collection-immutable.version>
         <kotson.version>2.5.0</kotson.version>
@@ -68,12 +68,12 @@
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>3.0.0-alpha01</fuel.version>
-        <http4k.version>5.4.0.0</http4k.version>
+        <http4k.version>5.5.0.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.14.2</kotlinpoet.version>
         <moshi.version>1.15.0</moshi.version>
         <!--persistence-->
-        <exposed.version>0.41.1</exposed.version>
+        <exposed.version>0.42.0</exposed.version>
         <mapdb.version>3.0.9</mapdb.version>
         <!--security-->
     </properties>
