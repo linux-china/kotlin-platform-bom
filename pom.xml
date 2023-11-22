@@ -38,7 +38,7 @@
         <funktionale.version>1.2</funktionale.version>
         <rx2kotlin.version>2.4.0</rx2kotlin.version>
         <kotlinx-coroutines.version>1.7.0</kotlinx-coroutines.version>
-        <kotlinx-serialization.version>1.6.0</kotlinx-serialization.version>
+        <kotlinx-serialization.version>1.6.1</kotlinx-serialization.version>
         <kotlinx-io.version>0.1.16</kotlinx-io.version>
         <kotlinx-collection-immutable.version>0.3.6</kotlinx-collection-immutable.version>
         <kotson.version>2.5.0</kotson.version>
@@ -50,12 +50,12 @@
         <kotlin-logging.version>4.0.0-beta-2</kotlin-logging.version>
         <kotlin-statistics.version>1.2.1</kotlin-statistics.version>
         <physikal.version>2.3.0.2</physikal.version>
-        <atomicfu.version>0.22.0</atomicfu.version>
-        <kodein.version>7.20.2</kodein.version>
+        <atomicfu.version>0.23.0</atomicfu.version>
+        <kodein.version>7.21.0</kodein.version>
         <kdispatcher.version>1.1.92</kdispatcher.version>
         <klock.version>4.0.10</klock.version>
         <!--code & classes-->
-        <jetbrains-annotations.version>24.0.1</jetbrains-annotations.version>
+        <jetbrains-annotations.version>24.1.0</jetbrains-annotations.version>
         <dataframe.version>0.11.1</dataframe.version>
         <!--testing-->
         <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
@@ -68,9 +68,9 @@
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>3.0.0-alpha01</fuel.version>
-        <http4k.version>5.10.2.0</http4k.version>
+        <http4k.version>5.10.3.0</http4k.version>
         <!--parsers & templates & serializer-->
-        <kotlinpoet.version>1.14.2</kotlinpoet.version>
+        <kotlinpoet.version>1.15.1</kotlinpoet.version>
         <moshi.version>1.15.0</moshi.version>
         <!--persistence-->
         <exposed.version>0.44.1</exposed.version>
