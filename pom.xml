@@ -70,10 +70,10 @@
         <fuel.version>3.0.0-alpha01</fuel.version>
         <http4k.version>5.10.4.0</http4k.version>
         <!--parsers & templates & serializer-->
-        <kotlinpoet.version>1.15.1</kotlinpoet.version>
+        <kotlinpoet.version>1.15.2</kotlinpoet.version>
         <moshi.version>1.15.0</moshi.version>
         <!--persistence-->
-        <exposed.version>0.44.1</exposed.version>
+        <exposed.version>0.45.0</exposed.version>
         <mapdb.version>3.0.10</mapdb.version>
         <!--security-->
     </properties>
