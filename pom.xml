@@ -30,15 +30,15 @@
     </developers>
 
     <properties>
-        <kotlin.version>1.9.20</kotlin.version>
+        <kotlin.version>2.0.0-Beta1</kotlin.version>
         <!--web development & GUI-->
-        <ktor.version>2.3.6</ktor.version>
+        <ktor.version>3.0.0-beta-1</ktor.version>
         <!--system management & monitor-->
         <!--productivity & tools-->
         <funktionale.version>1.2</funktionale.version>
         <rx2kotlin.version>2.4.0</rx2kotlin.version>
         <kotlinx-coroutines.version>1.7.0</kotlinx-coroutines.version>
-        <kotlinx-serialization.version>1.6.1</kotlinx-serialization.version>
+        <kotlinx-serialization.version>1.6.2</kotlinx-serialization.version>
         <kotlinx-io.version>0.1.16</kotlinx-io.version>
         <kotlinx-collection-immutable.version>0.3.6</kotlinx-collection-immutable.version>
         <kotson.version>2.5.0</kotson.version>
@@ -50,8 +50,8 @@
         <kotlin-logging.version>4.0.0-beta-2</kotlin-logging.version>
         <kotlin-statistics.version>1.2.1</kotlin-statistics.version>
         <physikal.version>2.3.0.2</physikal.version>
-        <atomicfu.version>0.23.0</atomicfu.version>
-        <kodein.version>7.21.0</kodein.version>
+        <atomicfu.version>0.23.1</atomicfu.version>
+        <kodein.version>7.21.1</kodein.version>
         <kdispatcher.version>1.1.92</kdispatcher.version>
         <klock.version>4.0.10</klock.version>
         <!--code & classes-->
@@ -68,7 +68,7 @@
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>3.0.0-alpha01</fuel.version>
-        <http4k.version>5.10.3.0</http4k.version>
+        <http4k.version>5.10.4.0</http4k.version>
         <!--parsers & templates & serializer-->
         <kotlinpoet.version>1.15.1</kotlinpoet.version>
         <moshi.version>1.15.0</moshi.version>
