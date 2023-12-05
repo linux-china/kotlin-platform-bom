@@ -68,9 +68,9 @@
         <!--network-->
         <khttp.version>1.0.0</khttp.version>
         <fuel.version>3.0.0-alpha01</fuel.version>
-        <http4k.version>5.10.4.0</http4k.version>
+        <http4k.version>5.10.5.0</http4k.version>
         <!--parsers & templates & serializer-->
-        <kotlinpoet.version>1.15.2</kotlinpoet.version>
+        <kotlinpoet.version>1.15.3</kotlinpoet.version>
         <moshi.version>1.15.0</moshi.version>
         <!--persistence-->
         <exposed.version>0.45.0</exposed.version>
