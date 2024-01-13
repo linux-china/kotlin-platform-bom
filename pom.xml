@@ -51,7 +51,7 @@
     <kotlin-statistics.version>1.2.1</kotlin-statistics.version>
     <physikal.version>2.3.0.2</physikal.version>
     <atomicfu.version>0.23.1</atomicfu.version>
-    <kodein.version>7.21.1</kodein.version>
+    <kodein.version>7.21.2</kodein.version>
     <kdispatcher.version>1.1.92</kdispatcher.version>
     <klock.version>4.0.10</klock.version>
     <!--code & classes-->
@@ -68,13 +68,13 @@
     <!--network-->
     <khttp.version>1.0.0</khttp.version>
     <fuel.version>3.0.0-alpha01</fuel.version>
-    <http4k.version>5.12.1.0</http4k.version>
+    <http4k.version>5.12.2.1</http4k.version>
     <!--parsers & templates & serializer-->
     <kotlinpoet.version>1.15.3</kotlinpoet.version>
     <moshi.version>1.15.0</moshi.version>
     <!--persistence-->
     <exposed.version>0.46.0</exposed.version>
-    <mapdb.version>3.0.10</mapdb.version>
+    <mapdb.version>3.1.0</mapdb.version>
     <!--security-->
   </properties>
 
