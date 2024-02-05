@@ -71,9 +71,9 @@
     <http4k.version>5.13.2.0</http4k.version>
     <!--parsers & templates & serializer-->
     <kotlinpoet.version>1.16.0</kotlinpoet.version>
-    <moshi.version>1.15.0</moshi.version>
+    <moshi.version>1.15.1</moshi.version>
     <!--persistence-->
-    <exposed.version>0.46.0</exposed.version>
+    <exposed.version>0.47.0</exposed.version>
     <mapdb.version>3.1.0</mapdb.version>
     <!--security-->
   </properties>
