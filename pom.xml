@@ -30,7 +30,7 @@
   </developers>
 
   <properties>
-    <kotlin.version>2.0.0</kotlin.version>
+    <kotlin.version>2.0.20-Beta1</kotlin.version>
     <!--web development & GUI-->
     <ktor.version>3.0.0-beta-1</ktor.version>
     <!--system management & monitor-->
@@ -67,8 +67,8 @@
     <strikt.version>0.34.1</strikt.version>
     <!--network-->
     <khttp.version>1.0.0</khttp.version>
-    <fuel.version>3.0.0-alpha02</fuel.version>
-    <http4k.version>5.22.0.0</http4k.version>
+    <fuel.version>3.0.0-alpha03</fuel.version>
+    <http4k.version>5.23.0.0</http4k.version>
     <!--parsers & templates & serializer-->
     <kotlinpoet.version>1.17.0</kotlinpoet.version>
     <moshi.version>1.15.1</moshi.version>
