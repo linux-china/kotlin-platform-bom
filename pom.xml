@@ -68,12 +68,12 @@
     <!--network-->
     <khttp.version>1.0.0</khttp.version>
     <fuel.version>3.0.0-alpha03</fuel.version>
-    <http4k.version>5.26.0.0</http4k.version>
+    <http4k.version>5.26.1.0</http4k.version>
     <!--parsers & templates & serializer-->
     <kotlinpoet.version>1.18.1</kotlinpoet.version>
     <moshi.version>1.15.1</moshi.version>
     <!--persistence-->
-    <exposed.version>0.52.0</exposed.version>
+    <exposed.version>0.53.0</exposed.version>
     <mapdb.version>3.1.0</mapdb.version>
     <!--security-->
   </properties>
