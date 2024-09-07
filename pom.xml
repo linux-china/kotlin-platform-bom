@@ -40,7 +40,7 @@
     <kotlinx-coroutines.version>1.9.0-RC.2</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.7.2</kotlinx-serialization.version>
     <kotlinx-io.version>0.1.16</kotlinx-io.version>
-    <kotlinx-collection-immutable.version>0.3.7</kotlinx-collection-immutable.version>
+    <kotlinx-collection-immutable.version>0.3.8</kotlinx-collection-immutable.version>
     <kotson.version>2.5.0</kotson.version>
     <reflect.lite.version>1.1.0</reflect.lite.version>
     <arrow.version>1.2.4</arrow.version>
@@ -68,7 +68,7 @@
     <!--network-->
     <khttp.version>1.0.0</khttp.version>
     <fuel.version>3.0.0-alpha03</fuel.version>
-    <http4k.version>5.29.0.0</http4k.version>
+    <http4k.version>5.30.0.0</http4k.version>
     <!--parsers & templates & serializer-->
     <kotlinpoet.version>1.18.1</kotlinpoet.version>
     <moshi.version>1.15.1</moshi.version>
