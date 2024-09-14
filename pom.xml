@@ -37,7 +37,7 @@
     <!--productivity & tools-->
     <funktionale.version>1.2</funktionale.version>
     <rx2kotlin.version>2.4.0</rx2kotlin.version>
-    <kotlinx-coroutines.version>1.9.0-RC.2</kotlinx-coroutines.version>
+    <kotlinx-coroutines.version>1.9.0</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.7.2</kotlinx-serialization.version>
     <kotlinx-io.version>0.1.16</kotlinx-io.version>
     <kotlinx-collection-immutable.version>0.3.8</kotlinx-collection-immutable.version>
