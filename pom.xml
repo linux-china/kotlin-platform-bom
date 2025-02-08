@@ -59,7 +59,7 @@
     <dataframe.version>0.15.0</dataframe.version>
     <!--testing-->
     <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
-    <kotest.version>6.0.0.M1</kotest.version>
+    <kotest.version>6.0.0.M2</kotest.version>
     <spek.version>1.2.1</spek.version>
     <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
     <assertk.version>0.28.1</assertk.version>
@@ -68,12 +68,12 @@
     <!--network-->
     <khttp.version>1.0.0</khttp.version>
     <fuel.version>3.0.0-alpha04</fuel.version>
-    <http4k.version>5.46.0.0</http4k.version>
+    <http4k.version>5.47.0.0</http4k.version>
     <!--parsers & templates & serializer-->
     <kotlinpoet.version>2.0.0</kotlinpoet.version>
     <moshi.version>1.15.2</moshi.version>
     <!--persistence-->
-    <exposed.version>0.58.0</exposed.version>
+    <exposed.version>0.59.0</exposed.version>
     <mapdb.version>3.1.0</mapdb.version>
     <!--security-->
   </properties>
