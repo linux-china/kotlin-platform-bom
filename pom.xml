@@ -51,12 +51,12 @@
     <kotlin-statistics.version>1.2.1</kotlin-statistics.version>
     <physikal.version>2.3.0.2</physikal.version>
     <atomicfu.version>0.27.0</atomicfu.version>
-    <kodein.version>7.26.0</kodein.version>
+    <kodein.version>7.26.1</kodein.version>
     <kdispatcher.version>1.1.92</kdispatcher.version>
     <klock.version>4.0.10</klock.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.0.2</jetbrains-annotations.version>
-    <dataframe.version>0.15.0</dataframe.version>
+    <dataframe.version>1.0.0-Beta2</dataframe.version>
     <!--testing-->
     <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
     <kotest.version>6.0.0.M4</kotest.version>
