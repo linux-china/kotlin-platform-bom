@@ -40,7 +40,7 @@
     <kotlinx-coroutines.version>1.10.2</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.8.1</kotlinx-serialization.version>
     <kotlinx-io.version>0.1.16</kotlinx-io.version>
-    <kotlinx-collection-immutable.version>0.3.8</kotlinx-collection-immutable.version>
+    <kotlinx-collection-immutable.version>0.4.0</kotlinx-collection-immutable.version>
     <kotson.version>2.5.0</kotson.version>
     <reflect.lite.version>1.2.0-RC</reflect.lite.version>
     <arrow.version>2.1.1</arrow.version>
