@@ -3,9 +3,9 @@ Kotlin Platform BOM
 
 A BOM for Kotlin platform
 
-### How to use ?
+### How to use?
 
-Please add following code in your pom.xml:
+Please add the following code in your pom.xml:
 
 ```xml
 <dependencyManagement>
@@ -23,19 +23,8 @@ Please add following code in your pom.xml:
 
 ### Artifacts
 
-* assertj-core-kotlin
-```kotlin
-import org.assertj.core.api.KotlinAssertions.assertThat
-import org.junit.Test
-
-class KotlinAssertionsExample {
-    @Test
-    fun simpleAssertion() {
-        assertThat(10L.toString()).isEqualTo("10")
-    }
-}
-```
-* assertk: https://github.com/willowtreeapps/assertk 
+* assertj-core-kotlin: AssertJ Core Kotlin API
+* assertk: https://github.com/willowtreeapps/assertk
 * katz: Functional Data Types and abstractions for Kotlin https://github.com/FineCinnamon/Katz
 * fuel: Kotlin Http Client
 * kolor: A library to print colored strings https://github.com/ziggy42/kolor
@@ -43,7 +32,7 @@ class KotlinAssertionsExample {
 * kotlinpoet: A Kotlin API for generating .kt source files
 * Physikal: https://github.com/Tenkiv/Physikal
 * kotlinx.atomicfu: The idiomatic way to use atomic operations in Kotlin
-* date&time DSL： khronos， kizitonwose/Time 
+* date&time DSL： khronos， kizitonwose/Time
 * MockK: mocking library for Kotlin http://mockk.io/
 * human-readable Kotlin DSL for IPCs & turning anything into a message receiver / broadcaster: https://github.com/DavidMellul/Kotlin-Publish-Subscribe
 * KDispatcher is a Kotlin EventDispatcher https://github.com/Rasalexman/KDispatcher
