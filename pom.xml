@@ -59,7 +59,7 @@
     <dataframe.version>1.0.0-Beta2</dataframe.version>
     <!--testing-->
     <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
-    <kotest.version>6.0.0.M8</kotest.version>
+    <kotest.version>6.0.0.M9</kotest.version>
     <spek.version>1.2.1</spek.version>
     <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
     <assertk.version>0.28.1</assertk.version>
@@ -73,7 +73,7 @@
     <kotlinpoet.version>2.2.0</kotlinpoet.version>
     <moshi.version>1.15.2</moshi.version>
     <!--persistence-->
-    <exposed.version>1.0.0-beta-4</exposed.version>
+    <exposed.version>1.0.0-beta-5</exposed.version>
     <mapdb.version>3.1.0</mapdb.version>
     <!--security-->
   </properties>
