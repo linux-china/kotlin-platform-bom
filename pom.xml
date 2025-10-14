@@ -73,7 +73,7 @@
     <kotlinpoet.version>2.2.0</kotlinpoet.version>
     <moshi.version>1.15.2</moshi.version>
     <!--persistence-->
-    <exposed.version>1.0.0-rc-1</exposed.version>
+    <exposed.version>1.0.0-rc-2</exposed.version>
     <mapdb.version>3.1.0</mapdb.version>
     <!--security-->
   </properties>
