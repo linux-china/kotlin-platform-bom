@@ -30,7 +30,7 @@
   </developers>
 
   <properties>
-    <kotlin.version>2.3.0-Beta2</kotlin.version>
+    <kotlin.version>2.3.0-RC</kotlin.version>
     <!--web development & GUI-->
     <ktor.version>3.3.2</ktor.version>
     <!--system management & monitor-->
@@ -51,7 +51,7 @@
     <kotlin-statistics.version>1.2.1</kotlin-statistics.version>
     <physikal.version>2.3.0.2</physikal.version>
     <atomicfu.version>0.29.0</atomicfu.version>
-    <kodein.version>7.28.0</kodein.version>
+    <kodein.version>7.29.0</kodein.version>
     <kdispatcher.version>1.1.92</kdispatcher.version>
     <klock.version>4.0.10</klock.version>
     <!--code & classes-->
@@ -59,7 +59,7 @@
     <dataframe.version>1.0.0-Beta3</dataframe.version>
     <!--testing-->
     <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
-    <kotest.version>6.0.4</kotest.version>
+    <kotest.version>6.0.5</kotest.version>
     <spek.version>1.2.1</spek.version>
     <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
     <assertk.version>0.28.1</assertk.version>
@@ -68,7 +68,7 @@
     <!--network-->
     <khttp.version>1.0.0</khttp.version>
     <fuel.version>3.0.0-alpha04</fuel.version>
-    <http4k.version>6.20.2.1</http4k.version>
+    <http4k.version>6.21.1.0</http4k.version>
     <!--parsers & templates & serializer-->
     <kotlinpoet.version>2.2.0</kotlinpoet.version>
     <moshi.version>1.15.2</moshi.version>
