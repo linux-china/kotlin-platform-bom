@@ -50,7 +50,7 @@
     <kotlin-logging.version>4.0.0-beta-2</kotlin-logging.version>
     <kotlin-statistics.version>1.2.1</kotlin-statistics.version>
     <physikal.version>2.3.0.2</physikal.version>
-    <atomicfu.version>0.30.0</atomicfu.version>
+    <atomicfu.version>0.31.0</atomicfu.version>
     <kodein.version>7.30.0</kodein.version>
     <kdispatcher.version>1.1.92</kdispatcher.version>
     <klock.version>4.0.10</klock.version>
@@ -59,7 +59,7 @@
     <dataframe.version>1.0.0-Beta4</dataframe.version>
     <!--testing-->
     <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
-    <kotest.version>6.1.0</kotest.version>
+    <kotest.version>6.1.1</kotest.version>
     <spek.version>1.2.1</spek.version>
     <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
     <assertk.version>0.28.1</assertk.version>
