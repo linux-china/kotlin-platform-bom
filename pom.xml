@@ -40,7 +40,7 @@
     <kotlinx-coroutines.version>1.11.0</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.11.0</kotlinx-serialization.version>
     <kotlinx-io.version>0.1.16</kotlinx-io.version>
-    <kotlinx-collection-immutable.version>0.5.0</kotlinx-collection-immutable.version>
+    <kotlinx-collection-immutable.version>0.5.1</kotlinx-collection-immutable.version>
     <kotson.version>2.5.0</kotson.version>
     <reflect.lite.version>1.2.0-RC</reflect.lite.version>
     <arrow.version>2.2.3</arrow.version>
@@ -73,7 +73,7 @@
     <kotlinpoet.version>2.3.0</kotlinpoet.version>
     <moshi.version>1.15.2</moshi.version>
     <!--persistence-->
-    <exposed.version>1.3.0</exposed.version>
+    <exposed.version>1.3.1</exposed.version>
     <mapdb.version>3.1.0</mapdb.version>
     <!--security-->
   </properties>
