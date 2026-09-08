@@ -70,7 +70,7 @@
     <fuel.version>3.0.0-alpha04</fuel.version>
     <http4k.version>6.58.0.0</http4k.version>
     <!--parsers & templates & serializer-->
-    <kotlinpoet.version>2.3.0</kotlinpoet.version>
+    <kotlinpoet.version>2.4.0</kotlinpoet.version>
     <moshi.version>1.15.2</moshi.version>
     <!--persistence-->
     <exposed.version>1.5.0</exposed.version>
