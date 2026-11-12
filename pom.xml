@@ -30,7 +30,7 @@
   </developers>
 
   <properties>
-    <kotlin.version>2.5.0-Beta2</kotlin.version>
+    <kotlin.version>2.5.0-RC</kotlin.version>
     <!--web development & GUI-->
     <ktor.version>3.6.1</ktor.version>
     <!--system management & monitor-->
@@ -38,7 +38,7 @@
     <funktionale.version>1.2</funktionale.version>
     <rx2kotlin.version>2.4.0</rx2kotlin.version>
     <kotlinx-coroutines.version>1.11.0</kotlinx-coroutines.version>
-    <kotlinx-serialization.version>1.12.0</kotlinx-serialization.version>
+    <kotlinx-serialization.version>1.13.0</kotlinx-serialization.version>
     <kotlinx-io.version>0.1.16</kotlinx-io.version>
     <kotlinx-collection-immutable.version>0.5.2</kotlinx-collection-immutable.version>
     <kotson.version>2.5.0</kotson.version>
@@ -59,7 +59,7 @@
     <dataframe.version>1.0.0-rc02</dataframe.version>
     <!--testing-->
     <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
-    <kotest.version>6.2.6</kotest.version>
+    <kotest.version>6.2.7</kotest.version>
     <spek.version>1.2.1</spek.version>
     <assertj-core-kotlin.version>0.2.1</assertj-core-kotlin.version>
     <assertk.version>0.28.1</assertk.version>
